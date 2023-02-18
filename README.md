@@ -1,4 +1,9 @@
 ### Hi there 👋
+🗣 I'm a postdoctoral scholar at the University of Calgary doing sports biomechanics research in the realm of injury prevention. I attempt to code to make life a little bit easier (sometimes harder). 
+Currently I'm using instrumented mouthguards to assess head biomechanics. Always happy to connect with other fellow researchers!
+📫 Email: kenzie.friesen@ucalgary.ca
+
+
 
 <!--
 **kenziebfriesen/kenziebfriesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
