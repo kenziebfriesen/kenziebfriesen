@@ -1,6 +1,6 @@
 ### Hi there 👋
 🗣 I'm a postdoctoral scholar at the University of Saskatchewan doing sports biomechanics research in the realm of injury prevention. I attempt to code to make life a little bit easier (sometimes harder). 
-Currently I'm measuring shoulder motion of athletes, breast cancer survivors, and workers using optical motion capture Always happy to connect with other fellow researchers!
+Currently I'm measuring shoulder motion of athletes, breast cancer survivors, and workers using optical motion capture. Always happy to connect with other fellow researchers!
 📫 Email: kenzie.friesen@usask.ca
 
 
